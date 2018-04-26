@@ -1,0 +1,23 @@
+{
+  "name": "ip-getter",
+  "version": "1.0.0",
+  "description": "An ip getter, http://ipinfo.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ip": "./bin/ip-get.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "ip",
+    "ipinfo"
+  ],
+  "author": "xiapangpang <18261453275@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.3.2"
+  }
+}
