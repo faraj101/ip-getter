@@ -19,5 +19,14 @@
   "dependencies": {
     "axios": "^0.18.0",
     "chalk": "^2.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiapangpang/ip-getter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiapangpang/ip-getter/issues"
+  },
+  "homepage": "https://github.com/xiapangpang/ip-getter#readme"
 }
